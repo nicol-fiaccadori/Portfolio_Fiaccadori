@@ -1,7 +1,16 @@
 /* CSS Document */
-h1 {
+
+h1.titolo {
 	background-color: black;
 	color: white;
 	text-align: center;
-	
+	/*centra il testo nella pagina*/
+}
+div.baz
+{background-color: white;}
+/*colore testo bianco con sfondo nero*/
+h1.5B {
+	background-color: black;
+	color: white;
+	text-align: center
 }
